@@ -1,0 +1,30 @@
+/* px -> % */
+/* responsive?? */
+
+body{
+    background-color: #FFD633;
+    margin: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.25;
+}
+
+
+.main{
+    padding: 5px;
+    padding-left:  35px;
+    padding-right: 35px;
+    background-color: #ffffff;
+    border-radius: 5px 5px 5px 5px;
+}
+
+
+h1, h3{
+    font-family: "PT Serif Caption", serif;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
